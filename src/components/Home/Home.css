@@ -1,0 +1,25 @@
+.card {
+  width: 250px;
+  height: 340px;
+  border: 1px solid gray;
+}
+.photo {
+  width: 80px;
+  border-radius: 50px;
+}
+.info {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card-btn {
+  background: aqua;
+}
+.phone-container {
+  display: flex;
+}
+.card-container {
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
